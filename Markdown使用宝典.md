@@ -44,8 +44,11 @@ HTML 是一种发布的格式，Markdown 是一种书写的格式
 
 *  7 超级链接
 	
-This is an [Mardown 11种基本语法](http://www.cnblogs.com/hnrainll/p/3514637.html).	
+	This is an [Mardown 11种基本语法](http://www.cnblogs.com/hnrainll/p/3514637.html).	
 
+*  8 图片
+
+	![图片](C:\Users\Administrator.ADMINIS-2C4TV8U\Tech_learn\img.jpg "测试图片")
 
 ---
 
