@@ -37,17 +37,15 @@ HTML 是一种发布的格式，Markdown 是一种书写的格式
 *  5 粗体
 
     **加粗体**
- 
-*  6 有序列表 
-
+*  6 列表
     1. 
-	2. 
-	3. 
+    2. 
+    3. 
+
+*  7 超级链接
 	
-*  7 链接 	
-	
-	
-	
+This is an [Mardown 11种基本语法](http://www.cnblogs.com/hnrainll/p/3514637.html).	
+
 
 ---
 
