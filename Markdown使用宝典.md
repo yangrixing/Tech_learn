@@ -50,6 +50,7 @@ HTML 是一种发布的格式，Markdown 是一种书写的格式
 
 	![图片](C:\Users\Administrator.ADMINIS-2C4TV8U\Tech_learn\img.jpg "测试图片")
 
+	
 ---
 
 
